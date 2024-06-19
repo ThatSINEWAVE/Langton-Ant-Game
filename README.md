@@ -4,6 +4,8 @@
 
 Welcome to Langton's Ant Game, a fascinating simulation of an ant's movement based on simple rules.
 
+![Langton's Ant Game](https://github.com/ThatSINEWAVE/Langton-Ant-Game/assets/133239148/9fa3ed0b-e65f-4a36-b8b6-9ed32dd691b1)
+
 </div>
 
 ## Overview
